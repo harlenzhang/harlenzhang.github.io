@@ -16,3 +16,4 @@ github_username:  harlenzhang
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
+pygments: true
