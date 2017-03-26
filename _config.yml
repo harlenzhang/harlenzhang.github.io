@@ -17,3 +17,5 @@ github_username:  harlenzhang
 markdown: kramdown
 theme: jekyll-theme-tactile
 pygments: true
+paginate: 10
+auto: true

@@ -2,7 +2,7 @@
 layout: post
 title:  "领袖心理学"
 date:   2017-03-26 23:02:44 +0800
-categories: 学习
+categories: 学习 心理学
 ---
 # 领袖心理学
 ## 无条件接受
